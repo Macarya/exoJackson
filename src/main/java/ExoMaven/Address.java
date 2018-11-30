@@ -5,7 +5,6 @@ public class Address {
 	private Integer num;
 
 	public Address() {
-		// TODO Auto-generated constructor stub
 	}
 
 }
