@@ -1,9 +1,9 @@
 package ExoMaven;
 
 public class Personne {
-	private Address adr;
-	private String name;
-	private Integer age;
+	public Address adr;
+	public String name;
+	public Integer age;
 	
 
 	public Personne() {
